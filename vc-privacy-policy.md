@@ -1,3 +1,8 @@
+---
+title: Privacy Policy
+filename: vc-privacy-policy
+--- 
+
 # Privacy Policy
 Volfgang Riabichenko built the Village town clicker idle game app as a Freemium app. This SERVICE is provided by Volfgang Riabichenko at no cost and is intended for use as is.
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
